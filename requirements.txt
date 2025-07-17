@@ -2,4 +2,4 @@ streamlit
 py3Dmol
 pandas
 numpy
-openbabel
+
