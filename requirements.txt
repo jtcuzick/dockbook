@@ -1,6 +1,5 @@
 streamlit
 py3Dmol
-rdkit-pypi
 pandas
 numpy
 openbabel
