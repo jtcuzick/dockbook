@@ -1,5 +1,8 @@
-streamlit
-py3Dmol
-pandas
+streamlit==1.36.0
+rdkit-pypi==2022.9.5
+openbabel-wheel==3.1.1.17
+py3Dmol==2.4.0
 numpy
+pandas
+
 
