@@ -12,6 +12,13 @@ DockBook is a Streamlit-based web application for structure-based virtual screen
 
 📊 Batch Screening Support: Process multiple ligands in parallel and export results for downstream analysis in DataWarrior.
 
+## How It Works
+
+- Step 1: Upload receptor and ligand files.  
+- Step 2: Ligands are converted into 3D with Open Babel.  
+- Step 3: Docking workflow is run (AutoDock Vina or future engines).  
+- Step 4: Results are visualized interactively with py3Dmol.
+
 ## Access
 
 You can try DockBook directly in your browser here:  
@@ -26,8 +33,5 @@ git clone https://github.com/<your-username>/dockbook.git
 cd dockbook
 pip install -r requirements.txt
 
-## 📖 How It Works
-- Step 1: Upload receptor and ligand files.  
-- Step 2: Ligands are converted into 3D with Open Babel.  
-- Step 3: Docking workflow is run (AutoDock Vina or future engines).  
-- Step 4: Results are visualized interactively with py3Dmol.
+
+
