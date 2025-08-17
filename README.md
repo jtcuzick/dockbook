@@ -18,6 +18,7 @@ DockBook is a Streamlit-based web application for structure-based virtual screen
 - Step 2: Ligands are converted into 3D with Open Babel.  
 - Step 3: Docking workflow is run (AutoDock Vina or future engines).  
 - Step 4: Results are visualized interactively with py3Dmol.
+- Step 5: Export results in .txt file for analysis in DataWarrior.
 
 ## Access
 
