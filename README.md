@@ -4,13 +4,13 @@ DockBook is a Streamlit-based web application for structure-based virtual screen
 
 ## Features
 
-🚀 Run Docking Workflows: Prepare ligands and receptors for docking simulations.
+ Run Docking Workflows: Prepare ligands and receptors for docking simulations.
 
-🔄 Format Conversion: Seamless ligand file conversion (SMILES, SDF, PDBQT, etc.) via Open Babel.
+ Format Conversion: Seamless ligand file conversion (SMILES, SDF, PDBQT, etc.) via Open Babel.
 
-🔬 3D Visualization: Interactive molecule rendering powered by py3Dmol.
+ 3D Visualization: Interactive molecule rendering powered by py3Dmol.
 
-📊 Batch Screening Support: Process multiple ligands in parallel and export results for downstream analysis in DataWarrior.
+ Batch Screening Support: Process multiple ligands in parallel and export results for downstream analysis in DataWarrior.
 
 ## How It Works
 
@@ -23,7 +23,8 @@ DockBook is a Streamlit-based web application for structure-based virtual screen
 ## Access
 
 You can try DockBook directly in your browser here:  
-👉 [Launch DockBook on Streamlit Cloud](https://dockbook-v1.streamlit.app/)
+
+ [Launch DockBook on Streamlit Cloud](https://dockbook-v1.streamlit.app/)
 
 ## Installation (Developers)
 
